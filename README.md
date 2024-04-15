@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Alejandro Soler González</h1>
-<h3 align="center">Computer Scientist and python developer from Cuba</h3>
+<h3 align="center">Computer Scientist and python developer</h3>
 
 - 🔭 I’m currently working on [System Recomendation for LMS](https://github.com/jorgesolerrr/Student-behavior-prediction-and-recommendation-system)
 
